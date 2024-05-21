@@ -1,5 +1,4 @@
-Heyyyy I am karthick!! 
-Description
+
 The BankList Web Application is a dynamic and interactive web application developed to manage and display a list of bank accounts. This project is built using HTML, CSS, and JavaScript, providing users with a seamless and intuitive experience for managing their bank account information.
 ----------------------------------------------------------------------------------------------------------
 Features:
